@@ -1,6 +1,6 @@
 {
   "name": "browsearify",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "rewrite a lite version of sea.js to live load browserified javascripts",
   "main": "index.js",
   "scripts": {
